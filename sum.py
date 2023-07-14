@@ -1,4 +1,5 @@
 def sum_series(n):
+    ''' Dev is kanak '''
 	'''This function reeturns the sum of first natural numbers.'''
 	sum = 0
 	for i in range(1, n+1):
