@@ -1,0 +1,3 @@
+def multiply(x,y):
+	''' This functions returns the sum of two values.'''
+	return x*y
